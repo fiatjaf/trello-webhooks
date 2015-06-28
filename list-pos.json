@@ -1,0 +1,28 @@
+{
+  "id": "55900a979a7cbfad796c478b",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "board": {
+      "shortLink": "7hs3uLZE",
+      "name": "This is a Site",
+      "id": "54c2f73c734b5b084777d1aa"
+    },
+    "list": {
+      "name": "an empty List",
+      "id": "5514564da07f76c2633f07f0",
+      "pos": 149503.0625
+    },
+    "old": {
+      "pos": 61439.4375
+    }
+  },
+  "type": "updateList",
+  "date": "2015-06-28T14:54:15.887Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}

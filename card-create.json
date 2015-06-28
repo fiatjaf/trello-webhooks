@@ -1,0 +1,30 @@
+{
+  "id": "55906023892770637b766345",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "board": {
+      "shortLink": "7hs3uLZE",
+      "name": "This is a Site",
+      "id": "54c2f73c734b5b084777d1aa"
+    },
+    "list": {
+      "name": "an empty List",
+      "id": "5514564da07f76c2633f07f0"
+    },
+    "card": {
+      "shortLink": "0N7Yrpro",
+      "idShort": 42,
+      "name": "hello.",
+      "id": "55906023892770637b766344"
+    }
+  },
+  "type": "createCard",
+  "date": "2015-06-28T20:59:15.428Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}

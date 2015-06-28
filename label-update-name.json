@@ -1,0 +1,28 @@
+{
+  "id": "55900c6afb7664f552e373ce",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "board": {
+      "shortLink": "7hs3uLZE",
+      "name": "This is a Site",
+      "id": "54c2f73c734b5b084777d1aa"
+    },
+    "label": {
+      "color": "red",
+      "id": "54c2f73c74d650d567babe48",
+      "name": ""
+    },
+    "old": {
+      "name": "danger"
+    }
+  },
+  "type": "updateLabel",
+  "date": "2015-06-28T15:02:02.178Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}

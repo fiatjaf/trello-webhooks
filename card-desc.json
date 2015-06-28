@@ -1,0 +1,34 @@
+{
+  "id": "5576295cd37464a6c845787f",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "list": {
+      "name": "_preferences",
+      "id": "551307e6aebc354b0915fbe8"
+    },
+    "board": {
+      "shortLink": "vfdBxuwr",
+      "name": "idéias",
+      "id": "5387e0a7e10724f99ecd0766"
+    },
+    "card": {
+      "shortLink": "SeJdnhN9",
+      "idShort": 261,
+      "name": "instructions",
+      "id": "55130bdb964da5dac6c3eab3",
+      "desc": "banana"
+    },
+    "old": {
+      "desc": "Basically:\n\n  * Every list represent a \"section\" of your site, and every section can have various cards, which are listed like blog posts.\n  * The date displayed for cards is their creation date. You can override these dates and show custom dates for cards (for example, if you want to fake the creation date of some post) with **Due date**.\n  * Card descriptions are the content of the card, markdown is rendered to HTML just like Trello does inside its interface.\n  * Checklists you add to cards are shown just like checklists in the rendered page. This can be useful, or don't, you decide.\n  * Attachments are also added to cards as a list of attachments in the end of the posts, images added as `<img>` tags and so rendered, but you can also link to them inside your cards with markdown to show inline images.\n  * Cards with names starting with a `_` are hidden, so you can have drafts. This also works for lists and all the cards under them.\n  * The `_preferences` list is special and has some special cards with special properties, mostly for configuration.\n  * Also special is the board description, which is translated as your site's description. To edit the board's description, find and click a small icon resembling various lines next to the board name.\n  * Most customizations (hiding this and that information from your site, reorganizing objects in the rendered pages, ajaxifying navigation and so on) can and should be done with CSS and Javascript, since modifying the HTML basic template is not possible. Go to your **includes** card in this same list and include/link everything from there.\n\n### About the `_preferences`:\n\nCurrently the following configurations are supported (all them set by modifying the card in the homonymous list)\n\n  * __includes__: as said before, this is used for adding CSS and Javascript to your site\n  * __favicon__: a URL to an image (it can be hosted inside your board) that will be served as your site's browser icon (you know, that icon shown on the browser tabs and favorites for each website)\n  * __posts-per-page__: number of posts shown in each list page and the homepage, the default is 7\n  * __domain__: when you get [support for a custom domain](http://websitesfortrello.com/account) you go to this card and write your domain there in the description"
+    }
+  },
+  "type": "updateCard",
+  "date": "2015-06-08T23:46:36.726Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}

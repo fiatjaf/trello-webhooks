@@ -1,0 +1,24 @@
+{
+  "id": "55900bd59b8f577d70313982",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "board": {
+      "shortLink": "7hs3uLZE",
+      "name": "This is a Site",
+      "id": "54c2f73c734b5b084777d1aa"
+    },
+    "label": {
+      "name": "banana",
+      "id": "55900bd519ad3a5dc2a59346"
+    }
+  },
+  "type": "createLabel",
+  "date": "2015-06-28T14:59:33.037Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}

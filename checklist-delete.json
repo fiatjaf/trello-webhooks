@@ -1,0 +1,30 @@
+{
+  "id": "55762b721a96042e0c105293",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "checklist": {
+      "name": "uvas uvas",
+      "id": "557629d18a895f2cadc27963"
+    },
+    "board": {
+      "shortLink": "vfdBxuwr",
+      "name": "idéias",
+      "id": "5387e0a7e10724f99ecd0766"
+    },
+    "card": {
+      "shortLink": "SeJdnhN9",
+      "idShort": 261,
+      "name": "instructions -",
+      "id": "55130bdb964da5dac6c3eab3"
+    }
+  },
+  "type": "removeChecklistFromCard",
+  "date": "2015-06-08T23:55:30.229Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}
