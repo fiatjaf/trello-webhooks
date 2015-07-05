@@ -1,0 +1,24 @@
+{
+  "id": "5599463c72425b7638b1894f",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "board": {
+      "shortLink": "vfdBxuwr",
+      "name": "idéias",
+      "id": "5387e0a7e10724f99ecd0766"
+    },
+    "list": {
+      "name": "test",
+      "id": "5599463c72425b7638b1894e"
+    }
+  },
+  "type": "createList",
+  "date": "2015-07-05T14:59:08.076Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "559946d9a61b43af968459f9",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "list": {
+      "name": "jogos",
+      "id": "53cc473901cc5468bea95010"
+    },
+    "board": {
+      "shortLink": "vfdBxuwr",
+      "name": "idéias",
+      "id": "5387e0a7e10724f99ecd0766"
+    },
+    "card": {
+      "shortLink": "R5ODUdrT",
+      "idShort": 235,
+      "name": "um trem tipo advance wars, mas na linha de comando",
+      "id": "54d52579dbf95b843cc3beb0",
+      "closed": true
+    },
+    "old": {
+      "closed": false
+    }
+  },
+  "type": "updateCard",
+  "date": "2015-07-05T15:01:45.386Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "55994f2146ee075698208618",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "board": {
+      "shortLink": "vfdBxuwr",
+      "name": "idéias",
+      "id": "5387e0a7e10724f99ecd0766"
+    },
+    "idMemberAdded": "557976153d63ef846e16a992",
+    "memberType": "normal"
+  },
+  "type": "addMemberToBoard",
+  "date": "2015-07-05T15:37:05.475Z",
+  "member": {
+    "id": "557976153d63ef846e16a992",
+    "avatarHash": "ddfbcedbe536cc8e994c32720b57a2f1",
+    "fullName": "cardsync",
+    "initials": "C",
+    "username": "cardsync"
+  },
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}
