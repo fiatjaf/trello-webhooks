@@ -1,0 +1,35 @@
+{
+  "id": "559957f5257d76020834091a",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "cardSource": {
+      "shortLink": "7ckPmZsC",
+      "idShort": 266,
+      "name": "template rendering as a service",
+      "id": "551c7784ce93f1fea506063c"
+    },
+    "list": {
+      "name": "microserviços",
+      "id": "53a0f471a8a73c0d276207e7"
+    },
+    "board": {
+      "shortLink": "vfdBxuwr",
+      "name": "idéias",
+      "id": "5387e0a7e10724f99ecd0766"
+    },
+    "card": {
+      "idShort": 317,
+      "name": "test",
+      "id": "559957f5257d760208340919"
+    }
+  },
+  "type": "convertToCardFromCheckItem",
+  "date": "2015-07-05T16:14:45.689Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}
