@@ -1,0 +1,36 @@
+{
+  "id": "55c35f230a80c98932396eaa",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "cardSource": {
+      "shortLink": "d3PMxsMG",
+      "idShort": 54,
+      "name": "a Card with Checklists",
+      "id": "55c349a66cd753b967b1469e"
+    },
+    "board": {
+      "shortLink": "7hs3uLZE",
+      "name": "This is a Site",
+      "id": "54c2f73c734b5b084777d1aa"
+    },
+    "list": {
+      "name": "this is also a List",
+      "id": "550877bc0f2f2b9e95df6d87"
+    },
+    "card": {
+      "shortLink": "atdVaNu4",
+      "idShort": 57,
+      "name": "a copy",
+      "id": "55c35f230a80c98932396e9a"
+    }
+  },
+  "type": "copyCard",
+  "date": "2015-08-06T13:20:35.513Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}
