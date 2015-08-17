@@ -1,0 +1,27 @@
+{
+  "id": "55d2189adb11fde3b2174105",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "checklist": {
+      "id": "55d21885981e997f08681e4c",
+      "name": "java"
+    },
+    "old": {
+      "name": "Checklist"
+    },
+    "board": {
+      "shortLink": "7hs3uLZE",
+      "id": "54c2f73c734b5b084777d1aa",
+      "name": "This is a Site"
+    }
+  },
+  "type": "updateChecklist",
+  "date": "2015-08-17T17:23:38.924Z",
+  "memberCreator": {
+    "id": "50e853a3a98492ed05002257",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "fullName": "Giovanni Parra",
+    "initials": "GP",
+    "username": "fiatjaf"
+  }
+}
