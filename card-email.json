@@ -1,0 +1,30 @@
+{
+  "id": "55d721abd8f8897cc59dbfae",
+  "idMemberCreator": "557fwf2851d78e2b2b6f1acd",
+  "data": {
+    "list": {
+      "name": "Harabshwara",
+      "id": "557ff2cec82332e157ccbc17"
+    },
+    "board": {
+      "shortLink": "YqkiJfI0",
+      "id": "554b3fd520f4a3cb5a7ba90c",
+      "name": "Ho"
+    },
+    "card": {
+      "idShort": 572,
+      "shortLink": "y2fScvDo",
+      "id": "55d720abd8f8897cc59dbfad",
+      "name": "Wormhole Invoice R-474513"
+    }
+  },
+  "type": "emailCard",
+  "date": "2015-08-21T12:59:23.157Z",
+  "memberCreator": {
+    "username": "fiatjaf",
+    "fullName": "Giovanni Parra",
+    "avatarHash": null,
+    "id": "557fwf2851d78e2b2b6f1acd",
+    "initials": "GP"
+  }
+}

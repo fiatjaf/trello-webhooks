@@ -1,0 +1,24 @@
+{
+  "id": "55d7232fc3597726f3e13ddf",
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "data": {
+    "old": {
+      "closed": false
+    },
+    "board": {
+      "shortLink": "V50D5SXr",
+      "id": "55af0b659f5c12edf972ac2e",
+      "closed": true,
+      "name": "Communal Website"
+    }
+  },
+  "type": "updateBoard",
+  "date": "2015-08-21T13:10:07.216Z",
+  "memberCreator": {
+    "username": "fiatjaf",
+    "fullName": "Giovanni Parra",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "id": "50e853a3a98492ed05002257",
+    "initials": "GP"
+  }
+}
