@@ -1,0 +1,28 @@
+{
+  "memberCreator": {
+    "username": "fiatjaf",
+    "initials": "FJ",
+    "fullName": "Giovanni P",
+    "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
+    "id": "50e853a3a98492ed05002257"
+  },
+  "date": "2017-09-16T02:36:29.244Z",
+  "type": "copyChecklist",
+  "data": {
+    "checklist": {
+      "id": "59bc8e2ddbd7af0e1474fb08",
+      "name": "7777777777777"
+    },
+    "board": {
+      "id": "597f3c854baa6e43db4f07d7",
+      "name": "testing",
+      "shortLink": "CGKHU6vL"
+    },
+    "checklistSource": {
+      "id": "59bc8e1b5135cbe9718deb2d",
+      "name": "7777777777777"
+    }
+  },
+  "idMemberCreator": "50e853a3a98492ed05002257",
+  "id": "59bc8e2ddbd7af0e1474fb0e"
+}
