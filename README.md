@@ -70,9 +70,9 @@ All webhooks come with the following structure:
         "memberCreator": {
             "id": "50e853a3a98492ed05002257",
             "avatarHash": "d2f9f8c8995019e2d3fda00f45d939b8",
-            "fullName": "Giovanni P",
+            "fullName": "Alfred M",
             "initials": "FJ",
-            "username": "fiatjaf"
+            "username": "alfmx"
         },
         "display": {
             "translationKey": "unknown",
@@ -80,8 +80,8 @@ All webhooks come with the following structure:
                 "memberCreator": {
                     "type": "member",
                     "id": "50e853a3a98492ed05002257",
-                    "username": "fiatjaf",
-                    "text": "Giovanni P"
+                    "username": "alfmx",
+                    "text": "Alfred M"
                 }
             }
         }
