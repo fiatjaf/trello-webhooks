@@ -90,3 +90,43 @@ All webhooks come with the following structure:
 ```
 
 `model` is the model being observed. `action` is different depending on the event type. Each type of event has its structure in one file in this repository.
+
+### Current types of Trello's events
+Sorted by alphabetic name
+
+* addAttachmentToCard
+* addChecklistToCard
+* addLabelToCard
+* addLabelToCard
+* addMemberToBoard
+* addMemberToCard
+* commentCard
+* convertToCardFromCheckItem
+* copyCard
+* copyChecklist
+* createCard
+* createCheckItem
+* createLabel
+* createList
+* deleteAttachmentFromCard
+* deleteCard
+* deleteCheckItem
+* deleteComment
+* deleteLabel
+* emailCard
+* moveCardFromBoard
+* moveCardToBoard
+* moveListFromBoard
+* moveListToBoard
+* removeChecklistFromCard
+* removeLabelFromCard
+* removeMemberFromBoard
+* removeMemberFromCard
+* updateBoard
+* updateCard
+* updateCheckItem
+* updateCheckItemStateOnCard
+* updateChecklist
+* updateComment
+* updateLabel
+* updateList
