@@ -128,5 +128,6 @@ Sorted by alphabetic name
 * updateCheckItemStateOnCard
 * updateChecklist
 * updateComment
+* updateCustomFieldItem
 * updateLabel
 * updateList
